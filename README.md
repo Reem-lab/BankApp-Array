@@ -9,6 +9,12 @@
 
 <img src="Capture.PNG" width="100%" />
 
+
+## See live server version
+
+[see my project live version](https://reem-lab.github.io/WorkingWithArray/)
+
+
 ## Built With
 
 - Languages: _**HTML, CSS, JavaScript**_
